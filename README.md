@@ -1,5 +1,5 @@
 # 目录
-1. 基础类型
+1. [基础类型](https://github.com/93210978/typescript/blob/master/page/1%E3%80%81%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B.md)
 2. 变量声明
 3. 接口
 4. 类
